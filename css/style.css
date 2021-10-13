@@ -1,14 +1,3 @@
-/*
-@File: Pet Clinic Theme Styles
-
-Author       : EnvyTheme
-Template Name: Pet Clinic
-Version      : 1.1
-
-* This file contains the styling for the actual theme, this
-is the file you need to edit to change the look of the
-theme.
-
 This files contents are outlined below>>>>>
 
 *******************************************
@@ -24,21 +13,15 @@ This files contents are outlined below>>>>>
 ** - Service area CSS
 ** - Hovers CSS
 ** - Subscription area CSS
-** - Who we are area CSS
 ** - Testimonials area CSS
 ** - About Us area CSS
 ** - Breadcumbs area CSS
 ** - Newsletter area CSS
 ** - Gallery area CSS
-** - Projects area CSS
-** - Widget area CSS
 ** - Comments area CSS
 ** - Qoute form CSS
 ** - Contact us CSS
-** - Team area CSS
-** - Blog posts area CSS
 ** - Footer area CSS
-** - 404 not found CSS
 */
 
 /* ==============
@@ -4587,5 +4570,5 @@ button.btn.btn-primary.submit-btn:hover {
 .pc-footer-area{
     padding-top: 100px;
 }
-/* End Home version 4
+/* End Home
 ========================================*/
